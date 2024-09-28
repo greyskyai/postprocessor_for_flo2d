@@ -1,0 +1,9 @@
+{
+    "flo2d_folders": [
+        "R:/_anichols/Projects/_flo2d_postprocessor_tests/Detroit_Basin_Prop100y24h"
+    ],
+    "epsg_number": "2868",
+    "create_flo2d_points": false,
+    "style_folder": "R:/_anichols/Resources/GIS/Styles",
+    "output_format": "GeoPackage"
+}
